@@ -5,7 +5,7 @@
 	//codego
 	
 		//Para escrever
-		printf("Ola ,mundo\n");
+		printf("Hello World!\n");
 			
 		
 	}
