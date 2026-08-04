@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main(){
+	int X,A,B;
+	
+	printf("Digite dois numeros :");
+	scanf("%d %d",&A,&B);
+	
+	X=A+B;
+	
+	printf("%d",X);
+	return 0;
+	
+}
